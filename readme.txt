@@ -1,4 +1,5 @@
 Welcome to My First Repo
-now two file is completerly difference so far.
-I added this line in the update-readme branch.
+why there is no comflict so far.
+because you need to change the orignal file togther
+ this line in the update-readme branch.
 It's cloudy outside today.
